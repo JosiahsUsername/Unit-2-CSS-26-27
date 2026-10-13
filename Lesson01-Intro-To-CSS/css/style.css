@@ -1,0 +1,11 @@
+    body {
+        background-color: tomato;
+        color: lightgoldenrodyellow;
+    }
+    .stats {
+        background-color: cornsilk;
+        color: black;
+    }
+    #player {
+        background-color: peru;
+    }
