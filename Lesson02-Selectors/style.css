@@ -1,0 +1,31 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.player-card p {
+    color: tomato;
+}
+.player-card .btn{
+    background-color: lightgoldenrodyellow;
+}
+#banner {
+    border-bottom: 9px solid tomato;
+    border-top: 8px solid slateblue;
+    border-left: 6px dashed slateblue;
+    border-right: 6px dashed tomato;
+    border-spacing: 2px;
+}
+/* About paragraph italic Rule */
+.about p {
+    font-style: italic;
+}
+/* Tag and stat bold Rule */
+.tag, .stat {
+    font-weight: bold;
+}
+/* Footer color rule */
+footer {
+    color: #AEC0D8;
+}
+.card h2 {
+    color: tomato;
+}
