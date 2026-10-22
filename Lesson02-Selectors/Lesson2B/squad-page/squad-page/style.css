@@ -31,13 +31,3 @@ h2, h3 {
 #captain {
     border: 2px solid #F2B705;
 }
-/* descendant (space) */
-.player-card p {
-    color: #AEC0D8;
-}
-nav a {
-    color: tomato;
-}
-li + li {
-    border-top: 1px solid goldenrod;
-}
