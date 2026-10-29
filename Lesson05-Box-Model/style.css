@@ -114,5 +114,9 @@ section {
 /* STEP 3 ▸ count padding and border inside the width */
 * {
     box-sizing: border-box;
+    .notice {
+    margin-top: 0;
+    margin-bottom: 24px;
+}
 }
 /* STEP 4 ▸ room below the notice */
